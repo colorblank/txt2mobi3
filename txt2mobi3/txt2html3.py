@@ -321,7 +321,7 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>{book_title}</title>
     <style type="text/css">
-    p {{ margin-top: 1em; text-indent: 0em; }}
+    p {{ margin-top: 1em; text-indent: 2em; }}
     h1 {{margin-top: 1em}}
     h2 {{margin: 2em 0 1em; text-align: center; font-size: 2.5em;}}
     h3 {{margin: 0 0 2em; font-weight: normal; text-align:center; font-size: 1.5em; font-style: italic;}}
